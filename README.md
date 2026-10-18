@@ -2,6 +2,8 @@
 
 **Put your app online and watch it grow.**
 
+**Live:** https://hyperbloom-bloom.deployxa.online/
+
 Bloom is a deploy experience on [Deployxa](https://deployxa.com/) for people who build apps with AI tools like Lovable, Bolt, Cursor and v0 and have never deployed before. Each project is a plant. Deploying it grows the plant through four stages:
 
 | Stage | What happens |
